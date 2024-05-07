@@ -1,4 +1,4 @@
-# word2vec_pytorch
+# NLP_1_Word2Vec
 NLP001: word2vec using pytorch
 
 ## 使用说明
